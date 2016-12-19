@@ -16,7 +16,7 @@
     </define>
     <define append="true">
       <name>CONFIG::timeStamp</name>
-      <value>'05.09.2016'</value>
+      <value>'19.12.2016'</value>
     </define>
     <define append="true">
       <name>CONFIG::air</name>
@@ -33,7 +33,6 @@
     <verbose-stacktraces>true</verbose-stacktraces>
     <source-path append="true">
       <path-element>J:\FDWorkspace\StarlingDemo\src</path-element>
-      <path-element>J:\as3-libs\as3-signals-master\src</path-element>
       <path-element>C:\Program Files (x86)\FlashDevelop\Library\AS3\classes</path-element>
     </source-path>
     <library-path append="true">

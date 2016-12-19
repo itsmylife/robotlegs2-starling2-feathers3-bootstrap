@@ -16,7 +16,7 @@
     </define>
     <define append="true">
       <name>CONFIG::timeStamp</name>
-      <value>'05.09.2016'</value>
+      <value>'19.12.2016'</value>
     </define>
     <define append="true">
       <name>CONFIG::air</name>
@@ -40,7 +40,9 @@
       <path-element>J:\FDWorkspace\StarlingDemo\libs</path-element>
     </library-path>
   </compiler>
-  <file-specs />
+  <file-specs>
+    <path-element>J:\FDWorkspace\StarlingDemo\src\com\itsmylife\starling\demo\StarlingDemo.as</path-element>
+  </file-specs>
   <default-background-color>#FFFFFF</default-background-color>
   <default-frame-rate>30</default-frame-rate>
   <default-size>
